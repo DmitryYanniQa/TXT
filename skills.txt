@@ -1,0 +1,7 @@
+skill_1: Gitbash
+skill_2: Github
+skill_3: Postman
+skill_4: AS
+skill_5: Devtools
+skill_6: JavaScript
+skill_7: Gitlab
